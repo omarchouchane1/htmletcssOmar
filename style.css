@@ -1,0 +1,131 @@
+.content{
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: auto;
+}
+
+.r{
+color: red;
+display: flex;
+}
+.m{
+color: orange;
+}
+.v{
+color: lightgreen;
+}
+.vi{
+color: hsla(256, 72%, 46%, 1);
+}
+.b{
+    width: 200px;
+    border-radius: 30px;
+   color:hsl(0, 0%, 100%);
+    background-color:hsl(224, 30%, 27%);
+    padding: 9px;
+    cursor: pointer;
+}
+.Continue{
+    font-family: Arial, Helvetica, sans-serif;
+    flex-direction: column;
+    padding-right: 15px;
+}
+.content{
+    background: rgb(82, 42, 192);
+    padding: 30px;
+    padding-bottom: 200px;
+    border-radius: 30px;
+    width:200px ;
+    height: 100px;
+    color: white;
+}
+.pm{
+    background-color: rgba(0, 36, 181, 0.175);
+    border-radius:600%;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.ml{
+    display: flex;
+    justify-content: center;
+align-items: center;
+}
+.bkl{
+    display: flex;
+    justify-content: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.op{
+    display: flex;
+    justify-content: center;
+}
+.lm{
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:900
+}
+.passe{
+    display: flex;
+    align-items: center;
+    background-color:hsl(0, 0%, 100%) ;
+    box-shadow:rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    display:flex;
+    align-items:center;
+    border-radius: 29px;
+    gap: 20px;
+}
+.mpo{
+display:flex;
+align-items: center;
+gap: 5px;
+background-color:hsl(0, 100%, 91%);
+border-radius: 10px;
+margin: 6px;
+padding-left: 11px;
+font-size: 15px;
+}
+.pom{
+display: flex;
+align-items: center;
+gap: 7px;
+background-color:hsl(43, 100%, 86%);
+border-radius: 10px;
+margin: 6px;
+padding-left: 11px;
+font-size: 15px;
+}
+.klm{
+display: flex;
+align-items: center;
+gap: 14px;
+background-color:hsl(166, 100%, 90%);
+border-radius: 10px;
+margin: 6px;
+padding-left: 11px;
+font-size: 15px;
+}
+.mli{
+display: flex;
+align-items: center;
+gap: 14px;
+background-color:hsl(234, 100%, 86%);
+border-radius: 10px;
+margin: 6px;
+padding-left: 11px;
+font-size: 15px;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
